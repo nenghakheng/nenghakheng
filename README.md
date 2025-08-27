@@ -10,6 +10,4 @@
                     _\///________\///___\////////\//_____\/////______\/////////___\/////////__            
 ```
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=nenghakheng&locale=en&mode=daily&theme=discord_old_blurple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=nenghakheng&theme=blue-navy&border_radius=)](https://git.io/streak-stats)
