@@ -9,5 +9,6 @@
                    _\/\\\______\//\\\_\//\\\\\\\\/\\__\///\\\\\/___\//\\\\\\\\\___/\\\\\\\\\_ 
                     _\///________\///___\////////\//_____\/////______\/////////___\/////////__            
 ```
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=nenghakheng&theme=blue-navy&border_radius=)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nenghakheng&theme=blue-navy&locale=en&mode=daily&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+</div>
